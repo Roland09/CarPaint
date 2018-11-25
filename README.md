@@ -4,10 +4,11 @@ The other day I was asked about how to extract the Car from the Unity Standard A
 
 To make this short, here's the default grey look.
 
+Material of this repository in scenery:
+
+![New Material](https://github.com/Roland09/CarPaint/blob/master/screenshot-preview.jpg)
+
 Original:
 
 ![Original](https://github.com/Roland09/CarPaint/blob/master/screenshot-original.jpg)
 
-Material of this repository in scenery:
-
-![New Material](https://github.com/Roland09/CarPaint/blob/master/screenshot-preview.jpg)
