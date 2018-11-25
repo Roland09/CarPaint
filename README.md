@@ -8,7 +8,7 @@ Material of this repository in scenery:
 
 ![New Material](https://github.com/Roland09/CarPaint/blob/master/screenshot-preview.jpg)
 
-Original:
+Original from the Unity Standard Assets:
 
 ![Original](https://github.com/Roland09/CarPaint/blob/master/screenshot-original.jpg)
 
